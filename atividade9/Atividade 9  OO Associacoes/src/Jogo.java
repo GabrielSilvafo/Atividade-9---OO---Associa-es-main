@@ -11,7 +11,6 @@ public class Jogo {
         this.time2 = time2;
     }
 
-    // Getters
     public Time getTime1() { return time1; }
     public Time getTime2() { return time2; }
     public int getGolsTime1() { return golsTime1; }
